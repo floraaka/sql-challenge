@@ -18,7 +18,7 @@ The database schema includes the following tables:
 - **Dept_Manager**: Maps managers to departments.
 
 **ERD Sketch:**
-![ERD Sketch](path/to/ERD_image) 
+![ERD Sketch](https://github.com/floraaka/sql-challenge/blob/main/sql-challenge/erd.jpg) 
 
 ### Relationships
 
