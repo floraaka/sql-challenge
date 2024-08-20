@@ -18,7 +18,7 @@ The database schema includes the following tables:
 - **Dept_Manager**: Maps managers to departments.
 
 **ERD Sketch:**
-![ERD Sketch](path/to/ERD_image) *(Replace with actual image path or link)*
+![ERD Sketch](path/to/ERD_image) 
 
 ### Relationships
 
